@@ -1,3 +1,3 @@
 # SpringConceptGuide
 
-This repository is entended to guide developers about features in Spring.
+This repository is intended to guide developers about features in Spring.
